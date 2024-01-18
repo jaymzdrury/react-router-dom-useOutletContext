@@ -9,7 +9,7 @@
 child route must have path of parent (e.g. '/parent/...')
 
 ```JavaScript
-    <Route path='/parent'>
-        <Route path='/parent/child' />
-    </Route>
+<Route path='/parent'>
+    <Route path='/parent/child' />
+</Route>
 ```
